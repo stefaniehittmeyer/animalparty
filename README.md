@@ -1,4 +1,4 @@
-animalparty
+animal party
 ===========
 
 In your team, tell us a story about animals partying.
