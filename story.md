@@ -1,6 +1,6 @@
-<!--begin team cats-->
+<!--begin team horses-->
 
-<!--end team cats-->
+<!--end team horses-->
 <!--begin team bunnies-->
 
 <!--end team bunnies-->
@@ -10,6 +10,6 @@
 <!--begin team alpacas-->
 
 <!--end team alpacas-->
-<!--begin team puppies-->
+<!--begin team ducks-->
 
-<!--end team puppies-->
+<!--end team ducks-->
